@@ -1,2 +1,3 @@
 include:
-  - .well-known/
+  - .well-known/matrix/server
+  - .well-known/matrix/client
